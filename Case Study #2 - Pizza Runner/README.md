@@ -21,7 +21,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## Entity Relationship Diagram
 
-![Pizza Runner](https://github.com/senpaivarun2004/8-Week-SQL-Challenge/assets/81607668/78099a4e-4d0e-421f-a560-b72e4321f530)
+![Pizza Runner](https://8weeksqlchallenge.com/images/case-study-designs/2.png)
 
 ## 🧼 Data Cleaning & Transformation
 
