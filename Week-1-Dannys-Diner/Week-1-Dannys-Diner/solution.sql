@@ -1,6 +1,5 @@
 -- SQL solutions for Danny's Diner
 
-/* drop database dannys_diner;
 CREATE database dannys_diner;
 use dannys_diner;
 
@@ -209,5 +208,5 @@ group by customer_id;
 
 #Date Add
 select date_add(curdate(),interval 7 day);
-select date_add(curdate(),interval -7 day); */
+select date_add(curdate(),interval -7 day); 
 
