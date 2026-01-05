@@ -1,9 +1,22 @@
-# Danny’s Diner – Week 1 (SQL Case Study)
+# 🍜 Case Study No.1: Danny's Diner – Week 1
 
-This document presents a structured **Question & Answer** walkthrough for the **Danny’s Diner** case study from the **8 Week SQL Challenge**. Each question includes the SQL query, explanation, and final result.
+ Danny's Diner 
+
+This folder contains my SQL solutions for the **Danny's Diner** case study
+from the **8 Week SQL Challenge**.
+
+## Topics Covered
+- Basic SQL queries
+- Aggregations
+- Joins
+
+## Entity Relationship Diagram
+
+![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
 
 ---
 
+## Question and Solution
 ## 1. Total amount spent by each customer
 
 ### Question
