@@ -1,4 +1,4 @@
-# 🍜 Case Study #1: Danny's Diner – Week 1
+# 🍜 Case Study No.1: Danny's Diner – Week 1
 
  Danny's Diner 
 
